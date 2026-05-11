@@ -86,7 +86,7 @@ The project includes:
 ---
 
 ## Screenshots
-Add screenshots of:
+Added screenshots of:
 - Cancellation analysis charts
 - ADR trends
 - Monthly booking trends
