@@ -24,7 +24,6 @@ The dataset contains hotel booking records with features such as:
 - Cancellation status
 - Average Daily Rate (ADR)
 - Country
-- Market segment
 - Lead time
 - Customer details
 
@@ -58,7 +57,6 @@ The project includes:
 - Monthly booking comparison
 - Country-wise analysis
 - Hotel type comparison
-- Market segment analysis
 
 ---
 
@@ -80,3 +78,32 @@ The project includes:
 ---
 
 ## Project Structure
+├── Analysis.ipynb
+├── hotel_bookings.csv
+├── README.md
+└── images/
+
+---
+
+## Screenshots
+Add screenshots of:
+- Cancellation analysis charts
+- ADR trends
+- Monthly booking trends
+- Country-wise analysis
+
+---
+
+## Conclusion
+This project demonstrates practical data analysis skills including:
+- Data cleaning
+- Exploratory Data Analysis (EDA)
+- Data visualization
+- Business insight generation
+
+The analysis helps understand hotel booking behavior and provides recommendations for improving customer retention and revenue optimization.
+
+---
+
+## Author
+Mohd Zameer
